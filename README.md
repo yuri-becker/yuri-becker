@@ -1,13 +1,8 @@
 <div align="center">
 
   <h1 align="center"><strong>👋 Hi, I'm Yuri</strong></h1>
-
-  <p>
-    I'm a freelancing software developer 👩‍💻.
-  </p>
-  <p>
-    To find out more about me, feel free to check out <a href="https://yuri.li">my website 🌐</a>.
-  </p>
+  <p>I'm a Fullstack developer working on <a href="https://en.info.lock-book.com">Lock Book</a> and do part-time freelance work.</p>
+  <p>Feel free to use the social links on the left to learn more about me,<br/> and don't hesitate to contact me if you want to work together on your software project.</p>
 <br/>
 
 ## Skillset
