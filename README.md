@@ -16,7 +16,8 @@
 ![Jest](https://img.shields.io/badge/Jest-c21325?style=flat-square&logo=jest&logoColor=FFF)
 ![Angular](https://img.shields.io/badge/Angular-dd0031?style=flat-square&logo=angular&logoColor=FFF)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=FFF)
-![Testing Library](https://img.shields.io/badge/Testing%20Library-e33332?style=flat-square&logo=testinglibrary&logoColor=FFF)<br/>
+![Testing Library](https://img.shields.io/badge/Testing%20Library-e33332?style=flat-square&logo=testinglibrary&logoColor=FFF)
+![Testing Library](https://img.shields.io/badge/Rust-e37d2f?style=flat-square&logo=rust&logoColor=FFF)<br/>
 ![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=flat-square&logo=firebase&logoColor=FFF)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47a248?style=flat-square&logo=mongodb&logoColor=FFF)
 ![Spring](https://img.shields.io/badge/Spring-6db33f?style=flat-square&logo=spring&logoColor=FFF)
