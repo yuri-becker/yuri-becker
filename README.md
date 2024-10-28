@@ -3,14 +3,15 @@
   <h1 align="center"><strong>👋 Hi, I'm Yuri</strong></h1>
 
   <p>
-    I'm a freelancing software developer 👩‍💻.
+    I'm a software developer with a ❤️ for UI. 
   </p>
   <p>
-    To find out more about me, feel free to check out <a href="https://yuri.li">my website 🌐</a>.
+Currently, I'm in education 🎓.
   </p>
 <br/>
 
 ## Skillset
+
 <br/>
 
 ![Jest](https://img.shields.io/badge/Jest-c21325?style=flat-square&logo=jest&logoColor=FFF)
@@ -47,6 +48,7 @@
 <div align="center">
 
 ## Stats
+
 <br/>
 
 ![GitHub stats](https://github-readme-stats-tau-ecru-96.vercel.app/api?username=yuri-becker&show_icons=true&theme=transparent&text_color=f67280&title_color=f67280&icon_color=f67280&hide_border=true&hide_rank=true&custom_title=Github&disable_animations=true)
