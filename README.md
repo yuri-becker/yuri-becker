@@ -49,9 +49,9 @@
 ## Stats
 <br/>
 
-![GitHub stats](https://github-readme-stats-tau-ecru-96.vercel.app/api?username=yuri-becker&show_icons=true&theme=transparent&text_color=f67280&title_color=f67280&icon_color=f67280&hide_border=true&hide_rank=true&custom_title=Github%20Stats)
-![Language stats](https://github-readme-stats-tau-ecru-96.vercel.app/api/top-langs?username=yuri-becker&show_icons=true&theme=transparent&text_color=f67280&title_color=f67280&icon_color=f67280&hide_border=true&hide_rank=true&layout=donut)
+![GitHub stats](https://github-readme-stats-tau-ecru-96.vercel.app/api?username=yuri-becker&show_icons=true&theme=transparent&text_color=f67280&title_color=f67280&icon_color=f67280&hide_border=true&hide_rank=true&custom_title=Github&disable_animations=true)
+![Language stats](https://github-readme-stats-tau-ecru-96.vercel.app/api/top-langs?username=yuri-becker&show_icons=true&theme=transparent&text_color=f67280&title_color=f67280&icon_color=f67280&hide_border=true&hide_rank=true&layout=donut&disable_animations=true&custom_title=Languages%20in%20own%20Repositories)
 <br/>
 
-![Time stats](https://github-readme-stats-tau-ecru-96.vercel.app/api/wakatime?username=f2592122-f8d5-4891-b463-6d231d28ea8a&show_icons=true&theme=transparent&text_color=f67280&title_color=f67280&icon_color=f67280&hide_border=true&hide_rank=true&layout=compact)
+![Time stats](https://github-readme-stats-tau-ecru-96.vercel.app/api/wakatime?username=yuri&show_icons=true&theme=transparent&text_color=f67280&title_color=f67280&icon_color=f67280&hide_border=true&hide_rank=true&layout=compact&api_domain=wakapi.catboy.house&disable_animations=true&langs_count=20&custom_title=Wakatime)
 </div>
