@@ -6,7 +6,7 @@
     I'm a software developer with a ❤️ for UI. 
   </p>
   <p>
-Currently, I'm in education 🎓.
+I am actively looking for a job as a Full-stack- or Frontend Developer!
   </p>
 <br/>
 
