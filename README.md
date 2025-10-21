@@ -3,10 +3,7 @@
   <h1 align="center"><strong>👋 Hi, I'm Yuri</strong></h1>
 
   <p>
-    I'm a software developer with a ❤️ for UI. 
-  </p>
-  <p>
-I am actively looking for a job as a Full-stack- or Frontend Developer!
+    I'm a software developer, fan of well-designed applications, and I try to do everything with Rust and Nix.
   </p>
 <br/>
 
